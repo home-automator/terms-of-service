@@ -1,8 +1,8 @@
-# App.net - Privacy Policy
+# Home Automator - Privacy Policy
 
 Last Revised: February 7, 2013
 
-Our privacy policy applies to information we collect when you use or access our website located at http://app.net, use the App.net development tools and social networking services, or just interact with us. We may change this privacy policy from time to time. Whenever we make changes to this privacy policy, the changes are effective six (6) weeks after we post the revised privacy policy to our website (as indicated by revising the date at the top of our privacy policy). We encourage you to review our privacy policy whenever you access our services to stay informed about our information practices and the ways you can help protect your privacy.
+Our privacy policy applies to information we collect when you use or access our website located at https://homeautomator.com, use the Home Automator development tools and social networking services, or just interact with us. We may change this privacy policy from time to time. Whenever we make changes to this privacy policy, the changes are effective six (6) weeks after we post the revised privacy policy to our website (as indicated by revising the date at the top of our privacy policy). We encourage you to review our privacy policy whenever you access our services to stay informed about our information practices and the ways you can help protect your privacy.
 
 ## Collection of Information
 
@@ -32,7 +32,7 @@ We use information about you for various purposes, including to:
 * Provide services you request, process transactions and to send you related information, including confirmations and invoices,
 * Send you technical notices, updates, security alerts and support and administrative messages;
 * Respond to your comments, questions and requests and provide customer service;
-* Communicate with you about App.net-related news and information;
+* Communicate with you about Home Automator-related news and information;
 * Monitor and analyze trends, usage and activities in connection with our services; and
 * Personalize and improve our services.
 
@@ -46,25 +46,25 @@ We may share personal information about you as follows:
 
 * With third party vendors and other service providers who need access to your information to carry out work on our behalf (e.g., our payment processors who handle the payment portion of your subscriptions);
 * If we believe disclosure is reasonably necessary to comply with any applicable law, regulation, legal process or governmental request;
-* To enforce applicable user agreements or policies, including our [Terms of Service](/legal/terms/); and to protect App.net, our users or the public from harm or illegal activities;
-* In connection with any merger, sale of App.net assets, financing or acquisition of all or a portion of our business to another company; and
+* To enforce applicable user agreements or policies, including our [Terms of Service](/legal/terms/); and to protect Home Automator, our users or the public from harm or illegal activities;
+* In connection with any merger, sale of Home Automator assets, financing or acquisition of all or a portion of our business to another company; and
 * If we notify you through our services (or in our privacy policy) that the information you provide will be shared in a particular manner and you provide such information.
 
 We may also share aggregated or anonymized information that does not directly identify you.
 
 ## Third Party Analytics
 
-We may allow third parties to provide analytics services. These third parties may use cookies, web beacons and other technologies to collect information about your use of the services and other websites, including your IP address, web browser, pages viewed, time spent on pages, links clicked and conversion information. This information may be used by App.net and third parties to, among other things, analyze and track data, determine the popularity of certain content and other websites and better understand your online activity. Our privacy policy does not apply to, and we are not responsible for, third party cookies, web beacons or other tracking technologies and we encourage you to check the privacy policies of these third parties to learn more about their privacy practices.
+We may allow third parties to provide analytics services. These third parties may use cookies, web beacons and other technologies to collect information about your use of the services and other websites, including your IP address, web browser, pages viewed, time spent on pages, links clicked and conversion information. This information may be used by Home Automator and third parties to, among other things, analyze and track data, determine the popularity of certain content and other websites and better understand your online activity. Our privacy policy does not apply to, and we are not responsible for, third party cookies, web beacons or other tracking technologies and we encourage you to check the privacy policies of these third parties to learn more about their privacy practices.
 
 ## Security
 
-App.net takes reasonable measures to help protect personal information from loss, theft, misuse and unauthorized access, disclosure, alteration and destruction.
+Home Automator takes reasonable measures to help protect personal information from loss, theft, misuse and unauthorized access, disclosure, alteration and destruction.
 
 ## Your Information Choices
 
 ### Account Information
 
-You may update, correct or delete information about you at any time by logging into your online account and modifying your personal profile. If you wish to delete or suspend your account, please email us at [support@app.net](mailto:support@app.net), but note that we may retain certain information as required by law or for legitimate business purposes. We may also retain cached or archived copies of your information for a certain period of time.  In any case, deleted content will not remain in our system or backups for more than two (2) months.
+You may update, correct or delete information about you at any time by logging into your online account and modifying your personal profile. If you wish to delete or suspend your account, please email us at [support@homeautomator.com](mailto:support@homeautomator.com), but note that we may retain certain information as required by law or for legitimate business purposes. We may also retain cached or archived copies of your information for a certain period of time.  In any case, deleted content will not remain in our system or backups for more than two (2) months.
 
 ### Cookies
 
@@ -72,15 +72,15 @@ Most web browsers are set to accept cookies by default. If you prefer, you can u
 
 ### Promotional Communications
 
-You may opt out of receiving promotional emails from App.net by following the instructions in those emails. If you opt out, we may still send you non-promotional communications, such as those about your account or our ongoing business relations.
+You may opt out of receiving promotional emails from Home Automator by following the instructions in those emails. If you opt out, we may still send you non-promotional communications, such as those about your account or our ongoing business relations.
 
 ## Contact Us
 
 If you have any questions about this privacy policy, please contact us at:
 
-App.net Privacy Team<br>
+Home Automator Privacy Team<br>
 c/o Mixed Media Labs, Inc.<br>
 650 5th St., Suite 403<br>
 San Francisco, CA 94107<br>
 <br>
-[support@app.net](mailto:support@app.net)<br>
+[support@homeautomator.com](mailto:support@homeautomator.com)<br>
